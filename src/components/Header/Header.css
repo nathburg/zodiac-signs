@@ -1,0 +1,8 @@
+header {
+  color:aquamarine;
+  background-color: blueviolet;
+  display:flex;
+  align-items: center;
+  padding-left: 20px;
+  height: 40px; 
+}
